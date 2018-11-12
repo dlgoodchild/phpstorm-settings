@@ -1,0 +1,8 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+</keymap>
