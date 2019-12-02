@@ -3,9 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
-  <component name="EditorSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
